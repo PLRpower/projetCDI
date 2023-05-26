@@ -1,7 +1,4 @@
-from django.http import HttpResponse
-from django.shortcuts import render, get_object_or_404, redirect
-from django.urls import reverse
-
+from django.shortcuts import render, redirect
 from .models import Livre
 
 
