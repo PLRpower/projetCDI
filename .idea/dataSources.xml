@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="cdi.db" uuid="bfc44356-c00e-43a5-890f-1ea7907e7afa">
+    <data-source source="LOCAL" name="Django default" uuid="9912264c-8a83-4eb9-87bf-9c579a54c44b">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/projetCDI/settings.py</remarks>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/cdi.db</jdbc-url>
+      <jdbc-url>jdbc:sqlite:C:\Users\pault\PycharmProjects\projetCDI\cdi.db</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
